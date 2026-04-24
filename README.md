@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=79D7BE&size=35&center=true&vCenter=true&width=1000&lines=Hi.+Welcome+to+my+GitHub!;My+name+is+Weverton;I'm+21+years+old+and+i+live+on+Rio+de+Janeiro:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=79D7BE&size=35&center=true&vCenter=true&width=1000&lines=Hi.+Welcome+to+my+GitHub!;My+name+is+Weverton;I'm+22+years+old+and+i+live+on+Rio+de+Janeiro:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wevertonmbrtx&show_icons=true&count_private=true&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=FFF8F8&bg_color=0d1117" alt="GitHub stats"/> 
